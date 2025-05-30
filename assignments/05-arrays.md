@@ -8,8 +8,8 @@
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) Done 
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) Done
 6. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  Done
-7. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-8. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+7. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Done
+8. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) Done
 9. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 10. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 11. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
